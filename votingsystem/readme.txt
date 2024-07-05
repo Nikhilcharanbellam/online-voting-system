@@ -8,3 +8,5 @@
 8. Create a database with name votingsystem
 9. Import votingsystem.sql file(given inside the zip package in SQL file folder)
 10.Run the script http://localhost/votingsystem
+11.username:Nikhil
+   password:NIKHIL!123
