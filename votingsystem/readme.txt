@@ -1,5 +1,5 @@
-1.XAMPP
-2."TEXT EDITOR" VISUAL STUDO CODE
+1. Install XAMPP
+2.Install "TEXT EDITOR" VISUAL STUDO CODE
 3"voting system"
 4. Download the zip file
 5. Extract the file and copy "voting system" folder
